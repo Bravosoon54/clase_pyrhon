@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "nombre": "paquita",
+        "cantidad_huevos": 10
+    },
+    {
+        "id": "2",
+        "nombre": "paquito",
+        "cantidad_huevos": 0
+    },
+    {
+        "id": "3",
+        "nombre": "dani",
+        "cantidad_huevos": 30
+    }
+]
